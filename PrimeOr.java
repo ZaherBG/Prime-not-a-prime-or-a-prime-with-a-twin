@@ -1,7 +1,5 @@
-
-package problem__1;
 import java.util.Scanner;
-public class Problem__1 {
+public class PrimeOr {
 
    public static boolean prime(int a){
        boolean t=true;
